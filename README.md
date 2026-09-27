@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **Rafelio445/Rafelio445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy Rafael Lezama, estudiante de la Universidad Católica Andrés Bello (UCAB). Fiel creyente de que quien maneja la información tiene el poder, por eso me gusta gestionarla mediante tecnologías y lenguajes de programación.
