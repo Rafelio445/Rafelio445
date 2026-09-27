@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Rafael Lezama, estudiante de la Universidad Católica Andrés Bello (UCAB). Fiel creyente de que quien maneja la información tiene el poder, por eso me gusta gestionarla mediante tecnologías y lenguajes de programación.
+Fiel creyente de que quien maneja la información tiene el poder, por eso me gusta gestionarla mediante proyectos que ayuden a su acceso
+
+*Estudiante de ing. Informática en la Universidad Católica Andrés Bello (UCAB).*
