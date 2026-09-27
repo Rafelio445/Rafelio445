@@ -1,4 +1,4 @@
-## Hola 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0010F7&width=435&lines=Soy+Rafael+Lezama;%C2%A1Mucho+gusto!)](https://git.io/typing-svg)
 
 <!--
 **Rafelio445/Rafelio445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
